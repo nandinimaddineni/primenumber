@@ -1,0 +1,10 @@
+public class main{
+    public static void main(String[] args){
+        int n=4;
+        if(n%2==0){
+            System.out.println("prime number"+n);
+        }else{
+            System.out.println("not a prime number"+n);
+        }
+    }
+}
